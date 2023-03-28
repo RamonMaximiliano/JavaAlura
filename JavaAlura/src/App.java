@@ -17,7 +17,7 @@ Imersão Java 2ª edição | Aula 01 | Desafio 01
 
 https://www.youtube.com/watch?v=v4Dpul7b5bU&ab_channel=Alura
 
-Main class:
+Main class video: 44 min
 https://www.youtube.com/watch?v=D2NpRPs4CcE&ab_channel=Alura
 
 Read:
